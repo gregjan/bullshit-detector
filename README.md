@@ -10,6 +10,8 @@ The service monitors the news feeds of major fact checking web sites. This data 
 
 * Bullshit Detected Page - Page displays all posts visible to the user that cite misleading articles, in the main body or comments. Posts might eventually be grouped by issue. Will be limited to a certain number of posts or a certain time range. (We cannot process all the posts, all the time.)
 
+* Dog whistles - Using a curated list of phrases to detect dog whistles, that is, per wikipedia, "political messaging employing coded language that appears to mean one thing to the general population but has an additional, different or more specific resonance for a targeted subgroup." This would detect use of known "dog whistles" by your friends and family on social media. Once again, a response template would be useful.
+
 * Smells Like Some Bullshit - These are stories or posts that are likely to be bullshit, based on some identifiable traits. The most likely indicator is the original news site that produced the story. These rumor mills come up with misleading stories every day. Page will facilitate the submission of the story to a fact checking site.
 
 * "Call Bullshit" Button - Big button that facilitates a rapid response to the friends and family that have posted misleading stories. A template message will be provided that cites the fact check URL.
