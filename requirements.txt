@@ -1,0 +1,9 @@
+chardet==2.3.0
+cssselect==1.0.0
+lxml==3.6.4
+pkg-resources==0.0.0
+PyYAML==3.12
+readability-lxml==0.6.2
+requests==2.12.1
+untangle==1.1.0
+wget==3.2
